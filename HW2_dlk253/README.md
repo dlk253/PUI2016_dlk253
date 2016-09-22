@@ -17,7 +17,7 @@ By the time I got to the bus locations part of the assignment I felt more confid
 The last part of the assignment was the hardest for me becaue I know that I am so close. Here is my CSV file with some columns dropped. 
 
 
-![Screenshot 1 HW1 _ Assignment 3](ss2.png)
+![ss1](https://cloud.githubusercontent.com/assets/22032761/18759459/948fca56-80ca-11e6-902a-8f00148267fd.png)
 
 
 I just need to figure out how to plot it and will visit office hours to get it done.
