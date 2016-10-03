@@ -8,7 +8,7 @@ I was able to submit the pull request. The office hours with the professor were 
 
 | **Statistical Analyses | IV(s) | IV type(s) | DV(s) |DV type(s)| Control Var | Control Var Types | Question to be Answered | H0 | alpha | link to paper |     
 | ------------- |:-------------:| -----:| ------------ |:-------------:| -----:| -----:| -----:| -----:| -----:| -----:| 
-| Chi_Square| x | x |x |x |x | -----:| -----:| -----:| -----:| http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326|
+| Chi_Square| x | x |x |x |x | -----:| Does Gender Influence Colour Choice in the Treatment of Visual Stress?| -----:| -----:| http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326|
 | TBD| x | x |x |x |x | -----:| -----:| -----:| -----:| TBD|
 
 
