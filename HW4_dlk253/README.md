@@ -13,7 +13,7 @@ significant association between the colour of overlay chosen and male or female 
 
 | **Statistical Analyses | Chi_Square | Linear Regression, 3-Way ANOVA, T-test |
 | ---|---|---|
-| IV(s) | Gender | Positive, negative and neutral stimulus words |
+| IV(s) | Gender(male, female, and gender neutral) | Positive, negative and neutral stimulus words |
 | IV type(s) | Categorical | Categorical Nominal | 
 | DV(s) | Color of Overlay (approximately 30 colors)   | Percentage of responses answered 'yes;' Response time (self - queen); 'Positivity Measure' defined as % response 'yes' to positive words subtracted by % response 'yes' to negative words; Functional-MRI Blood Oxygen Level Dependent (BOLD) response  |
 | DV type(s) | Categorical  | Continous Ratio; Continuous Interval; Continous Ratio; Continuous Interval |
