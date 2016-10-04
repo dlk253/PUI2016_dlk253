@@ -24,6 +24,8 @@ significant association between the colour of overlay chosen and male or female 
 | alpha | p < 0.15 | p < 0.005 |
 | link to paper | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326  | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0078844 |   
 
+On a side note the colors used in the graphs were highly geneder biased visualizations. Which despite the chi square test, this made me think that the whole entire article was full of bias. 
+
 #Assignment 3 and assignment 4 
 
 I worked with Baily Griswold (bg1672), Tyler Woebkenburg (tw1574), Christian Rosado, and Jon Toy(jt2276). We had a big working group session on Friday from 6pm - 10pm. We projected the notebook and worked through it together. I was sitting between two very talented programs (Baily and Jon Toy) and was able to crunch through the assignment. Baily and Jon always have great suggestions for how to work with lists and run functions. Tyler was super useful as well and showed me how to clone a directory on compute. I showed everyone how to access and add files on compute. I really like working with this group and having the space at Magnet to work is a bonus. I am still pretty new at PYTHON, so working with this group has been awesome. 
