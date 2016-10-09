@@ -5,4 +5,31 @@ This week I finally felt comfortable witht he realtionship between compute and g
 For these first two assignments I worked with Jon Toy, Bailey Griswold, Christian Rosado, and Adrian Dahlin. We were all pretty comfortable with this one and it again was super helpful to work with the group. As the artist in the group I am the outlier and am often asking questions and having a little trouble keeping up but the group is very good at explaining things and I am learning so much.
 After the work session I went right to my stats book and started reading. 
 
-#Assignment 3
+#Assignment 3: Practice formulating the null hypothesis
+
+Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
+
+Do diets help lose more fat than the exercise?
+Experimental setup: you have a test and a control sample.
+
+H0 = 
+The % of fat lost in adults age 30 -40 who dieted every day for four months is the same or lower for candidates who exercised 60 minutes everyday for five months as for the control group.
+Significance level p = 0.05
+
+Do American trust the president?
+POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
+
+H0 = 
+The percentage of the democratic voters who believe Bill Clinton is a trustworthy president is the same or higher than the participants of the public opinion pull on May 16th, 1994 as for the control group.
+
+Effectiveness of nicotine patches to quit smoking.
+Experimental setup: measure cessation rates for smokers randomly assigned to use a nicotine patch versus a placebo patch.
+
+H0= 
+The percentage of cessation rates of former smokers that used the nicotine patch to quit smoking is the same or lower for candidates who participated in the placebo patch program as for the control group. 
+
+Quantify the danger of smoking for pregnant women.
+Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
+
+H0= 
+The IQ of children measured at ages 1, 2, 3, and 4 years is the same or lower than the IQ of children who had mothers that smoked during pregnancy as for the control group. 
