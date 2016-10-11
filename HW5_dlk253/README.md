@@ -6,14 +6,13 @@ For these first two assignments I worked with Jon Toy, Bailey Griswold, Christia
 After the work session I went right to my stats book and started reading. 
 
 #Assignment 3: 
-Practice formulating the null hypothesis. For this part of the assignment I worked with Greg Mayes. He is an engineer and works for the DPA and I sent him the version of this in words and he rejected the first two and added the equations for all four. We worked together and I appreciate his ability to come up with these so quickly. 
+Practice formulating the null hypothesis. For this part of the assignment I worked with Greg Mayes. He is an engineer and works for the DEP and I sent him the version of this in words and he rejected the first two and added the equations for all four. We worked together and I appreciate his ability to come up with these so quickly. 
 
 Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
 Do diets help lose more fat than the exercise? Experimental setup: you have a test and a control sample.
 
-##H0 = The % of fat lost in adults born after 1980 who exercised for one year (from 1/1/2014 to 1/1/2015) is the same or lower than for adults born after 1980 who dieted everyday for one year (from 1/1/2014 to 1/1/2015) then for the control group . 
-Significance level p = 0.05
+##H0 = The % of fat lost in adults who dieted during the study period is the same or lower than those who exercised during the same period.
 
 ##Control sample = % of fat lost by exercise over study period
 
@@ -26,7 +25,7 @@ Significance level p = 0.05
  
 Do American trust the president? POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
 
-##H0 = The participants of a public opinion poll on the trustworthiness of te President taken by Newsweek on May 16th, 1994 called, "Everything You Know About Bill Clinton"  is the same or lower than for canidates who voted democrat in the election than for the control group.  
+##H0 = Assuming a 'yes' response to the poll question "From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?" is an indication of trust, the null hypothesis is that the percentage of 'yes' responses is less than or equal to 'no' response, within a significance of 5%.
 
 ##Ha = %yes > %no
 
