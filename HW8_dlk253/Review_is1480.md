@@ -1,9 +1,9 @@
 ##Plot peer review by dlk253 for is1480
-##Principles of Urban informatics HW8
+Principles of Urban informatics HW8
 
-#This plot has the basic elements such as clearly labeled axis, a legend, a title, rendered colors, and description. 
+This plot has the basic elements such as clearly labeled axis, a legend, a title, rendered colors, and description. 
 
-#Suggested improvements would include 
+Suggested improvements would include 
 
 #1.) Adding units to to the x axis. It is unclear if time of day is in hours, minutes or seconds.
 
